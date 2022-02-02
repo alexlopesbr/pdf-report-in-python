@@ -1,6 +1,6 @@
 # Generating a report in PDF format with ReportLab
 
-![Resulto of report](print_log.png)
+![Result of report](report.jpg)
 
 ## How to start project.
 
